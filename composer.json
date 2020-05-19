@@ -1,5 +1,5 @@
 {
-	"name" : "dootech/web-proxy",
+	"name" : "axelpas/web-proxy",
 	"type" : "application",
 	"description" : "An advanced web proxy built with Symfony components, Goutte and Guzzle",
 	"keywords" : [
